@@ -105,3 +105,6 @@ venv.bak/
 
 # csv
 *.csv
+
+# ignore the resources foulder
+Resources/
