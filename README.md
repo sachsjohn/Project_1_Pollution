@@ -27,9 +27,15 @@ Research Questions:
 Rough Breakdown of Tasks:
 
 -Clean data in csv file to drop any columns with missing fields.
+
 -Parse through data to find cities with highest pollution counts.
+
 -Create time series charts to compare pollution throughout the 16 year period in selected cities.
+
 -Group data to average pollution counts by 4 seasons.
+
 -Create bar charts to compare seasonal figures.
+
 -Select major events that effected pollution in negative and positive ways.
+
 -Compare data with Census API for per Capita pollution averages. 
